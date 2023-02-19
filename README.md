@@ -27,15 +27,30 @@ Our goal in mentoring you at HDG is to produce developers for the community. Whe
 
 ### Motivation
 
-We will find out what motivates you in the world of Javascript and its many frameworks and we will motivate you to achieve your dreams. We will push you to better yourself and research your chosen framework and build something awesome for us to see!
+We will find out what motivates you in the world of programming and we will motivate you to achieve your dreams. We will push you to better yourself and research your chosen framework and build something awesome for us to see!
 
 ### Training
 
-We offer training
+Overall, a programming mentor will tailor their training to the mentee's specific needs and goals, and provide ongoing support and guidance as the mentee grows and develops their skills. In addition to that you can expect the following.
+
+- Technical training
+- Soft skills training
+- Career development training
+- Project-based training
+- Code review and feedback
+- Pair programming
 
 ### Guidance
 
-We will help guide you on your chosen career path
+Overall, as a programming mentor, your role is to provide guidance and support to your mentee in whatever ways they need, and to help them develop the skills and knowledge they need to succeed as a software developer.
+
+- Technical guidance
+- Problem-solving guidance
+- Code review and feedback
+- Career guidance 
+- Soft skills guidance
+- Project guidance
+- Learning guidance
 
 ### Support
 
@@ -43,7 +58,12 @@ We will support you and even assist you as needed to accomplish your goals
 
 ### Goals
 
-What are they?
+- Helping mentees develop their technical skills
+- Providing guidance on best practices
+- Sharing real-world experience
+- Encouraging professional growth
+- Providing feedback and constructive criticism
+- Being a role model
 
 ### Leadership
 
@@ -54,3 +74,5 @@ We shall lead you like Moshe!!
 We know things....
 
 ### Success
+
+Your overall success is our goal in mentoring you. Although we can not assure you success we can ensure you have the needed skills to achieve success in this field.
